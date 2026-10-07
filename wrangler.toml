@@ -1,8 +1,1 @@
-name = "divine-river-099e"
-main = "worker.js"
-compatibility_date = "2026-10-07"
 
-[[d1_databases]]
-binding = "DB"
-database_name = "vip-wifi-db"
-database_id = "5b0dd2c9-9917-4db8-a0a9-999378a5edc1"
